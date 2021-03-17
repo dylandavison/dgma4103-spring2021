@@ -1,0 +1,9 @@
+body {background-color: #9b2335; color: #f3cbd1}
+nav {border: 2.5px solid #7b1c2a; background-color: #6c1825; margin-left: 500px; margin-right: 500px; font-size: 50px; font-family: fantasy; box-shadow: 2.5px 5px #4d111a;}
+a {color: #e796a2; background-color:;text-decoration: none;  }
+iframe {border: 2.5px solid #7b1c2a;}
+h1,h2,h3,h4,h5,h6 {Color:#ce2f47; font-family:serif;}
+a:hover {text-decoration: underline;}
+p {font-family: sans-serif;}
+img {filter: hue-rotate(330deg);
+footer {border-top: 2.5px solid #7b1c2a; background-color: #6c1825; font-family: fantasy; font-size: 20px}

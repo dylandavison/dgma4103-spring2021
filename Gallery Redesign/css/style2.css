@@ -1,0 +1,13 @@
+body {background-color: #6bc0fc; font-family: monospace;}
+nav {border: 5px dashed #0479cc; background-color: #034f84; font-size: 25px;}
+a {color: #0479cc}
+h1 {font-size: 100px; font-family: serif; perspective: 100px;}
+p {font-size: 18px}
+img {border: 5px solid #0479cc;  }
+table {border: 10px solid #02365b; background-color: #012641;perspective: 100px}
+iframe {border: 10px solid #0479cc;}
+h2,h3,h4,h5,h6 { font-family: serif;}
+p {word-spacing: 2px;}
+figcaption {font-size: 18px}
+a:hover {text-decoration: underline;}
+a {text-decoration: none;}

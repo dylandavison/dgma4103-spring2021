@@ -1,0 +1,11 @@
+body {background-color: #e1ddea; border: 10px dashed #615286;}
+nav {font-size: 50px; margin-left: 550px;; margin-right:550px; border: 3px solid #4b4068;border-radius: 25px;  margin-bottom: 10px;}
+a:hover {text-decoration: underline;}
+a {text-decoration: none;}
+header {border-bottom: 10px dashed #6b5b95;}
+hr {visibility: hidden;}
+section {border-bottom: 10px dashed #6b5b95;}
+h1,h2,h3,h4,h5,h6 {font-family: arial; color:#362e4a}
+p {font-family: verdana; font-size: 17px; color:#403759}
+img {border: 5px solid #6b5b95}
+figcaption {border: 5px solid #6b5b95}
